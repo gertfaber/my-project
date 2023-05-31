@@ -7,3 +7,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+      - name: LS output
+        uses: actions/checkout@v2
+        
